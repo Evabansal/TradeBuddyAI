@@ -141,6 +141,6 @@ TradeBuddy demonstrates:
 - Sentiment analysis from news and earnings reports
 - Deeper personalization based on user history
 
----
+
 
 TradeBuddy is a good example of combining AI, finance data, and product thinking into a single user-facing experience.
