@@ -1,6 +1,6 @@
-# TradeBuddy
+# TradeBuddyAI
 
-TradeBuddy is a full-stack AI stock analysis assistant built to help users ask natural-language questions about public companies and receive structured market insights in return. It combines a React chat interface, a Python FastAPI backend, live market-data lookup, and persistent conversation logging to create a practical AI-driven finance experience.
+TradeBuddyAI is a full-stack AI stock analysis assistant built to help users ask natural-language questions about public companies and receive structured market insights in return. It combines a React chat interface, a Python FastAPI backend, live market-data lookup, and persistent conversation logging to create a practical AI-driven finance experience.
 
 ## Why this project stands out
 
